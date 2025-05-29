@@ -44,7 +44,7 @@ The goal of this project was to practice modern UI layout and design techniques 
 
 ---
 ## Screenshots
-![image alt](Screenshot 2025-05-29 113449.png)
+![image alt](https://github.com/Anamika-ai/Fronted-Replica-of-UltraEdit-site/blob/main/Screenshot%202025-05-29%20113449.png?raw=true)
 
 
 
