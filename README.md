@@ -43,6 +43,9 @@ The goal of this project was to practice modern UI layout and design techniques 
 - Recreate pixel-perfect UIs from real websites
 
 ---
+## Screenshots
+(![Screenshot description](./images/screenshot.png)
+)
 
 
 
