@@ -44,7 +44,7 @@ The goal of this project was to practice modern UI layout and design techniques 
 
 ---
 ## Screenshots
-(![Screenshot description](./images/screenshot.png)
+(![Screenshot description](Screenshot 2025-05-29 113449.png)
 )
 
 
