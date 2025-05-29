@@ -15,7 +15,7 @@ The goal of this project was to practice modern UI layout and design techniques 
 
 ## 🚀 Live Demo
 
-[🔗 View Live on GitHub Pages](https://your-username.github.io/your-repo-name/)  
+[🔗 View Live on GitHub Pages]( https://anamika-ai.github.io/Fronted-Replica-of-UltraEdit-site/)  
 
 
 ---
