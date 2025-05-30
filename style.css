@@ -114,8 +114,9 @@ nav {
 
 .grid {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 12px;
+    rid-template-columns: 448px 448px 448px;
+    gap: 30px;
+    margin: 0px 56px;
 }
 
 .btn {
